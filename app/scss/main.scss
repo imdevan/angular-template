@@ -1,0 +1,37 @@
+// Config variables
+$padding: 1rem;
+$padding--XL: 5rem;
+$margin: 2rem;
+$base-font-weight: 300;
+$accent-color: white;
+$negative-space-color: #111;
+$light-text: #555;
+$base-text: #444;
+$tablet: 500px;
+$desktop: 700px;
+$accent-background: #448BFF;
+$text-accent: $accent-background;
+$icon-size: 32px;
+$icon-size-lg: 64px;
+$md: 300px;
+$lg: 500px;
+$xl: 750px;
+$base-font: 'Roboto', sans-serif;
+$font-weight-base: 300;
+$font-weight-heavy: 700;
+$text-md: 2rem;
+$text-sm: 1rem;
+
+body {
+    margin: 0;
+    padding: 0;
+    color: $base-text;
+    font-size: 1rem;
+    font-family: $base-font;
+    font-weight: $font-weight-base;
+    font-weight: 300;
+}
+
+// import Layouts
+
+// import Components
